@@ -18,7 +18,7 @@ Para completar o case, siga as etapas descritas abaixo. A estrutura sugerida par
 ## Passos para Realização
 
 ### 1. Criação do Repositório
-- Crie um **"fork"** do [repositório original[(https://github.com/rankmyapp/case_product_data_analyst) que será disponibilizado a você.
+- Crie um **"fork"** do [repositório original](https://github.com/rankmyapp/case_product_data_analyst) que será disponibilizado a você.
 - **Organize** seu trabalho em diferentes pastas dentro desse repositório, conforme descrito abaixo (a estrutura sugerida não é obrigatória, mas deve manter a organização).
 
 ### 2. Consulta e Extração de Dados (SQL)
