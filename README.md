@@ -8,9 +8,9 @@ Bem-vindo ao Case Técnico para a vaga de **Data Analyst** para a área de Produ
 ## Cenário
 Você faz parte do time de Produto de uma empresa especializada em Otimização de Lojas de Aplicativos (ASO). Como **Analista de Dados**, você possui fortes habilidades em **análise de dados**, **visualização** e **estatística**.
 
-Recentemente, um de nossos clientes registrou um aumento significativo no número de reviews em seu aplicativo. Seu desafio será **analisar esses reviews** para identificar as causas por trás desse aumento e fornecer **insights valiosos** sobre os dados.
+Recentemente, no mês de agosto, um de nossos clientes registrou um aumento significativo no número de reviews em seu aplicativo. Seu desafio será **analisar esses reviews** para identificar as causas por trás desse aumento e fornecer **insights valiosos** sobre os dados.
 
-Este relatório será fundamental para que nossa equipe possa apresentar ao cliente uma **análise detalhada** do nível de satisfação dos usuários e do cenário atual.
+Este relatório será fundamental para que nossa equipe possa apresentar ao cliente uma **análise detalhada** do nível de satisfação dos usuários e do cenário atual, sendo interessante mostrar um comparativo com cenários anteriores.
 
 ## Orientações para a Prova
 Para completar o case, siga as etapas descritas abaixo. A estrutura sugerida para a entrega do seu trabalho é um **repositório no GitHub**, onde você organizará todos os arquivos relacionados ao case.
@@ -18,7 +18,7 @@ Para completar o case, siga as etapas descritas abaixo. A estrutura sugerida par
 ## Passos para Realização
 
 ### 1. Criação do Repositório
-- Crie um **"fork"** do repositório original que será disponibilizado a você.
+- Crie um **"fork"** do [repositório original[(https://github.com/rankmyapp/case_product_data_analyst) que será disponibilizado a você.
 - **Organize** seu trabalho em diferentes pastas dentro desse repositório, conforme descrito abaixo (a estrutura sugerida não é obrigatória, mas deve manter a organização).
 
 ### 2. Consulta e Extração de Dados (SQL)
@@ -27,10 +27,7 @@ Para completar o case, siga as etapas descritas abaixo. A estrutura sugerida par
 
 **Detalhes de acesso ao banco de dados:**
 
-- **Host:** XXXXX  
-- **Database:** XXXXX  
-- **User:** XXXXX  
-- **Password:** XXXXX  
+As credencias de acesso foram disponibilizadas por email.
 
 ### 3. Análise de Dados e Estatística (Python)
 - Utilize **Python** para realizar uma **análise exploratória** dos dados exportados.
