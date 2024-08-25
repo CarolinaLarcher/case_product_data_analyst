@@ -1,0 +1,35 @@
+## Resumo Geral dos Comentários sobre o Aplicativo KMV (antigo Abastece Aí)
+
+Os comentários sobre o aplicativo KMV (antigo Abastece Aí) demonstram uma experiência mista, com **muitos usuários insatisfeitos** devido a uma série de problemas, principalmente **após a mudança para KMV**. 
+
+**Problemas Técnicos:**
+
+* **Instabilidade generalizada:** O aplicativo apresenta diversos problemas, incluindo travamentos, telas de carregamento infinitas, erros ao abrir o aplicativo, falhas no cadastro, problemas com login e dificuldades em finalizar o pagamento.
+* **Problemas com o Pix:** Muitos usuários relatam falhas na função Pix, com dinheiro sendo debitado das contas, mas não creditado no app.
+* **Saldo indisponível:** Diversos usuários reclamam de não conseguir usar o saldo acumulado, seja para abastecer ou transferir para outras contas.
+* **Cobrança indevida:** Alguns clientes reclamam de cobranças duplas, principalmente ao usar o app para pagar o abastecimento.
+* **Problemas com o cashback:** Usuários se queixam de dificuldades para acumular pontos e receber cashback, com limites diários e descontos baixos.
+
+**Atendimento e Experiência no Posto:**
+
+* **Atendimento misto:** Há elogios ao atendimento dos frentistas, mas também reclamações sobre a falta de educação e problemas com a equipe de suporte do app.
+* **Falta de clareza:**  Usuários reclamam da falta de clareza em relação à pontuação e ao cashback, e sobre a propaganda enganosa de descontos.
+
+**Interface e Usabilidade:**
+
+* **Dificuldade de uso:**  Alguns usuários criticam a interface do aplicativo, alegando ser complexa e inadequada para uso em filas de abastecimento. Outros pedem simplificação e melhorias na experiência do usuário.
+
+**Outros Problemas:**
+
+* **Dificuldade de fechar a conta:** Alguns clientes tiveram problemas para encerrar suas contas no app.
+* **Comparação com a concorrência:** Muitos usuários mencionam que o app de outras empresas é mais prático e confiável.
+
+**Pontos Positivos:**
+
+* **Bom atendimento:** Muitos usuários elogiaram o atendimento dos frentistas e da equipe de suporte.
+* **Facilidade de uso:** Alguns usuários consideram o aplicativo intuitivo e prático.
+* **Descontos e cashback:** A promessa de descontos e cashback atrai muitos clientes, embora alguns relatem dificuldades para utilizá-los.
+
+**Conclusão:**
+
+Apesar de alguns elogios, o aplicativo KMV precisa de **melhorias significativas** para oferecer uma experiência satisfatória aos seus usuários. É essencial que a empresa resolva os problemas técnicos, melhore o atendimento ao cliente, simplifique a interface do app e garanta que os benefícios prometidos, como descontos e cashback, sejam realmente cumpridos. 
